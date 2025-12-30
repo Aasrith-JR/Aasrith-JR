@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on implementing inverse design on meta materials using deep learning architectures.
 - 🌱 Always learning new things in life. Learning can never stop.
-- ⚡ Fun fact: My freelancing profile is [aasrith-jr](https://github.com/cosmicnebula200). I just do university related or portfolio strengthening projects here.
+- ⚡ Fun fact: My freelancing profile is [cosmicnebula200](https://github.com/cosmicnebula200). I just do university related or portfolio strengthening projects here.
 
 - Freelance/Opensource profile
 <p align="center">
